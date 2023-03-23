@@ -1,0 +1,11 @@
+{
+	"schemaVersion" :1 ,
+	"dockerfileLines" :[
+		"FROM python:3.7.0-alpine",
+		"COPY .",
+		"WORKDIR .",
+		"RUN ls -a",
+		"CMD [ \"python3\", \"app.py\" ]",
+		"EXPOSE 5000 27017"
+	]
+}
