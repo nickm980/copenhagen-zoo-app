@@ -20,7 +20,7 @@ Buma marketing case competition mobile app for Copenhagen Zoo with working in-ap
 <p float="left">
 
 <img src="https://user-images.githubusercontent.com/81270095/227111543-2cd17c8e-50bc-4baa-aef3-088e0e0a8ac5.png" width="30%">
-<img src="https://user-images.githubusercontent.com/81270095/227111546-426c9ebe-2f57-45a4-b4fb-ae05a36c2d56.png" width="30%">
+<img src="https://user-images.githubusercontent.com/81270095/227276994-cacc4f04-e0fb-4dd4-acb4-cd3a6fbbae9d.png" width="30%">
 <img src="https://user-images.githubusercontent.com/81270095/227111547-3d72bf4c-fc38-4368-8c4b-7fd850dea824.png" width="30%">
   </p>
   <p float="left">
