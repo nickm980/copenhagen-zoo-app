@@ -1,5 +1,5 @@
 # buma-marketing-competition
-Buma marketing case competition mobile app for Copenhagen Zoo with working in-app newsletter signup form and event registration. The aweber newsletter landing page was edited to integrate automatic in-app newsletter signups.
+BUMA Marketing Case Competition mobile app for Copenhagen Zoo with working in-app newsletter signup form and event registration. The aweber newsletter landing page was also edited to integrate automatic in-app newsletter signups.
 
 ## Suggested Mobile App Changes
 * Dedicated Page for newsletter signups promoting what the newsletter has to offer
